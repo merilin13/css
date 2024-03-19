@@ -1,0 +1,16 @@
+/* h1{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 250%;
+    font-style: italic;
+  } */
+  h1{
+      font:72px Calibri,"Lucida Sans", Verdana, sans-serif;
+      font-style: italic;
+  }
+p{
+    color: grey;
+    font-size: 3em;
+    font-variant: small-caps;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 100;
+}
