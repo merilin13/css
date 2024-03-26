@@ -1,0 +1,37 @@
+h1 > em{
+    color:pink;
+}
+h1 ~ p{
+    color: violet;
+}
+h1 + p{
+    color: violet;
+}
+a:link{
+    font-weight:bold;
+    color: violet;
+  }
+   
+  a:visited{
+    color:#F00;
+  }
+   
+  a:hover{
+    color:#090;
+  }
+  p:first-line, last-of-line{
+    font-style:italic;
+  }
+  p:first-letter{
+    font-size:30px;
+    font-weight:bold;
+    color:#F00;
+}
+input:enabled{
+    background-color:#6F9;
+  }
+   
+ #lol, input:disabled{
+    background-color:rgb(231, 27, 27);
+  }
+  
