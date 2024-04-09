@@ -1,0 +1,72 @@
+.ymbris{
+    width: 640px;
+}
+.kollane-ruut{
+    background-color: yellow;
+    border: 2px solid red;
+}
+
+#roheline{
+    background-color: rgb(163, 196, 163);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12pt;
+    text-align: left;
+    margin-left: 0;
+    margin-right: 5cm;
+    text-indent: 2cm;
+    margin-top: 12;
+    margin-bottom: 0;
+    line-height: 1rem;
+    border-left: solid;
+    border-bottom: solid;
+    border-color: green;
+    border-width: 5px;
+    padding: 3px;
+}
+#sinine{
+    background-color: rgb(127, 246, 255);
+    font-family: 'Comic Sans MS';
+    font-size: 10pt;
+}
+#roosa{
+    background-color: rgb(231, 160, 110);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12pt;
+    width: 300pt;
+    text-align: middle;
+    margin-left: 3,5cm;
+    margin-right: 3,5cm;
+    text-indent: 2cm;
+    margin-top: 0;
+    margin-bottom: 12;
+    line-height: 1rem;
+    border-top: double;
+    border-bottom: double;
+    border-color: violet;
+    border-width: 10px;
+}
+#ruuduline{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13pt;
+    border-color: red;
+    border-style: dotted;
+    border-width: 5px;
+}
+#suurs{
+    
+    font-family: 'Calibri', 'Trebuchet MS', sans-serif;
+    font-size: 13pt;
+}
+
+.suurus,
+.font{
+    color:rgb(57, 95, 95);
+}
+
+.line{
+    text-decoration: underline;
+}
+.algus{
+    color: red;
+    font-weight: bold;
+}
